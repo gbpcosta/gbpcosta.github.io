@@ -20,7 +20,7 @@ I have a Bachelor's degree and an Master's degree in Computer Science also from 
 
 * __(2014 - 2019)__ - University of São Paulo: Ph.D. Student  
 __Representation learning of spatio-temporal features from videos.__   
-_Advisor:_ Prof. Dr. Moacir Antonelli Ponti   
+_Advisor:_ Moacir Antonelli Ponti   
 Research supported by the São Paulo Research Foundation (FAPESP).
 <!-- _Keywords:_ Representation learning, deep learning, computer vision, video processing, feature extraction, spatio-temporal features.    -->
 <!-- _Abstract:_ The method that is presently considered the state of the art on extraction of spatio-temporal features from videos is based on finding key points and dense trajectories to apply classical feature extraction algorithms, like SIFT and HOG. With the recent improvement on the processing capacity of CPUs and GPUs, combined with the increasing availability of video and image datasets, representation learning methods, specially deep learning methods, have reached state of the art performance in several areas in artificial intelligence and signal processing. Even with the good results obtained by these methods, they have only been applied a few times to spatio-temporal feature extraction from videos a few times. Research in this area have achieved promising results, however, most of the methods focus on a single application, restricting the use of the learned features. Also, there are promising concepts that were used to design hand-crafted features and were not yet tested in a representation learning context. In this project, we propose the development of representation learning algorithms for extraction of spatio-temporal features from videos. We expect that these methods will be able to extract features that are capable of describing events that can't be capture through a single frame, but with the development of a scene. We intend for these features to form a multidimensional time series that encodes spatial information. To evaluate the quality of the representations, visualization and projection techniques will be used to permit the analysis of the feature space. We will also use methods that allow us to visualize extracted features, this way it will be possible to create a connection between features and the events that occur in the videos. -->
@@ -29,7 +29,7 @@ Research supported by the São Paulo Research Foundation (FAPESP).
 
 * __(2012 - 2014)__ - University of São Paulo: Master's Degree   
 __Anomaly detection on medical diagnosis using parametric methods and multiple classifiers.__   
-_Advisor:_ Prof. Dr. Moacir Antonelli Ponti   
+_Advisor:_ Moacir Antonelli Ponti   
 Research supported by the São Paulo Research Foundation (FAPESP).
 <!-- Computer Science - Pattern Recognition - Anomaly detection -->
 
