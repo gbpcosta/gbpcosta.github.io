@@ -13,11 +13,11 @@ tags: ["data science", "visualisation", "python", "dashboard"]
 category: projects
 ---
 
-{% include figure image_path="/assets/images/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="Placeholder image to be replaced with a screenshot of the actual dashboard." caption="Placeholder image to be replaced with a screenshot of the actual dashboard." %}
-
 ## Description
 
 A data visualisation dashboard that allows users to manipulate and visualise textual and visual datasets without having to go into coding. This project will include several stages of a data analysis pipeline: preprocessing, feature extraction, dimensionality reduction and feature projection, data exploration, and clustering.
+
+{% include figure image_path="/assets/images/carlos-muza-hpjSkU2UYSU-unsplash.jpg" alt="Placeholder image to be replaced with a screenshot of the actual dashboard." caption="Placeholder image to be replaced with a screenshot of the actual dashboard. Photo by [Carlos Muza](https://unsplash.com/@kmuza) on [Unsplash](https://unsplash.com)." %}
 
 ## Goal
 
@@ -50,8 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
-{: style="align: center;"} -->
+| Foot1   | Foot2   | Foot3   | -->
 
 ## Links
 
