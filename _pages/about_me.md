@@ -8,27 +8,18 @@ share: false
 permalink: /about-me/
 ---
 
-I am the Data and Machine Learning Engineer at [Jump](https://jump.work), where I work on the entire machine learning pipeline, from analysis and modelling to deployment, helping candidates and companies find their perfect match. I recently received my PhD on Computer Science from the University of Sao Paulo (USP) - Brazil, where I worked with Moacir A. Ponti on the analysis of feature spaces created by deep learning and representation learning methods used to learn spatio-temporal features from videos.
+I am the Data and Machine Learning Engineer at [Jump](https://jump.work), where I work on the entire machine learning pipeline, from analysis and modelling to deployment. At Jump, we help candidates and companies find their perfect match. This is done by using several Natural Language Processing and Machine Learning methods to evaluate candidates' suitability and interest to jobs registered in our platform.
 
-<!-- I'm currently interested in -->
+I recently received my PhD on Computer Science from the University of Sao Paulo (USP) - Brazil, where I worked with [Moacir A. Ponti](https://sites.google.com/site/moacirponti/) on the analysis of feature spaces created by Deep Learning and Representation Learning methods used to learn spatio-temporal features from videos. During my PhD, I was a research intern at the University of Edinburgh, working with [Timothy Hospedales](https://homepages.inf.ed.ac.uk/thospeda/) on the application of Generative Adversarial Networks (GANs) for knowledge transfer applied to Computer Vision tasks.
 
----
-
-## Areas of Interest
-
-* Pattern recognition
-* Machine learning
-* Computer vision
-* Deep learning
-* Representation learning
-* Anomaly detection
+I have a Bachelor's degree and an Master's degree in Computer Science also from USP. During my MSc, my research focused on pattern recognition and anomaly detection. Other research projects I took part on focused on: Deep Learning methods for Anomaly Detection, the impact of quantisation and noise on the performance of different Deep Learning architectures, Multimodal Data Paring, Zero-shot Learning and Few-shot Learning. I am also interested me in statistical learning theory, reinforcement learning and data visualisation.
 
 ---
 
 ## Education
 
-* __(2014 - Current)__ - University of São Paulo: Ph.D. Student  
-__Representation learning of spatio-temporal features from video.__   
+* __(2014 - 2019)__ - University of São Paulo: Ph.D. Student  
+__Representation learning of spatio-temporal features from videos.__   
 _Advisor:_ Prof. Dr. Moacir Antonelli Ponti   
 Research supported by the São Paulo Research Foundation (FAPESP).
 <!-- _Keywords:_ Representation learning, deep learning, computer vision, video processing, feature extraction, spatio-temporal features.    -->
@@ -68,7 +59,10 @@ São Paulo Research Foundation (FAPESP).
 
 --- -->
 
-## Teaching experience
+## Experience
+
+* __(2019 - Present) - Data and Machine Learning Engineer__    
+At [Jump](https://jump.work).
 
 * __(2015) - Graduate teaching assistant__    
 Graduate teaching assistant for the undergraduate course _Introdução à Ciências da Computação II_ (Introduction to Computer Science II).
