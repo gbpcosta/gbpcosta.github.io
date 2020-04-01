@@ -99,6 +99,12 @@ author:
   location         : "London, UK"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gbpcosta/"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=I-iI608AAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gbpcosta"
@@ -108,9 +114,6 @@ author:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=I-iI608AAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gbpcosta"
@@ -125,11 +128,17 @@ author:
       # url: "https://your-website.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gabrielbpcosta@gmail.com
+      url: "mailto:gabrielbpcosta@gmail.com"
 
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gbpcosta/"
+    - label: "Google Scholar"
+      icon: "ai ai-fw ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=I-iI608AAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gbpcosta"
@@ -139,9 +148,6 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar-square"
-      url: "https://scholar.google.com/citations?user=I-iI608AAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gbpcosta"
