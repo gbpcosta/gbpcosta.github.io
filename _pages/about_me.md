@@ -7,8 +7,8 @@ comments: false
 share: false
 permalink: /about-me/
 redirect_from:
-    - /about/
     - /about_me/
+    - /about/
 ---
 
 I am the Data and Machine Learning Engineer at [Jump](https://jump.work), where I work on the entire machine learning pipeline, from analysis and modelling to deployment. At Jump, we help professionals and companies find their perfect matches. This is done by using several Natural Language Processing and Machine Learning methods to evaluate candidates' suitability and interest to jobs registered in our platform.

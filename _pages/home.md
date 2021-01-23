@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/startup-593327_1920.jpg
   actions:
     - label: "About Me"
-      url: "http://localhost:4000/about-me/"
+      url: "/about-me/"
   # caption: "Photo by [Markus Spiske](https://unsplash.com/@markusspiske) on [Unsplash](https://unsplash.com)"
 excerpt: "I am the Data and Machine Learning Engineer at [Jump](https://jump.work), where I work on the entire machine learning pipeline, from analysis and modelling to deployment, helping professionals and companies find their perfect match. I recently received my PhD on Computer Science (Machine Learning) from the University of Sao Paulo (USP) - Brazil."
 intro_title:
